@@ -1,4 +1,4 @@
-To RUn this project:
+To Run this project:
 1. Clone Repo
 2. Open folder in VS Code.
 3. Open terminal and use command npm i.
